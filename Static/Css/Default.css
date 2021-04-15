@@ -1,0 +1,75 @@
+body{
+    font-size: 12px;
+    background: #fff;
+}
+
+.panel {
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+}
+.panel-body .card{
+    overflow: hidden;
+    margin-bottom: 13px;
+}
+.thumb{
+    text-align: center;
+}
+.thumb img{
+    height: 75px;
+    width: 140px;
+    margin: 3px 3px 0px 3px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: #f2f2f2 solid 1px;
+}
+.card .card-heading .card-title {
+    display: block;
+    padding-left: 0px;
+}
+.card .card-footer {
+    padding: 0 18px 8px;
+    float: right;
+    margin-top: -35px;
+}
+.count,.czs-out{
+    width: 20px;
+    overflow: hidden;
+}
+.siteLink {
+    display: block;
+    font-weight: 700;
+    font-size: 12px;
+    color: inherit;
+    width: 140px;
+    height: 35px;
+    text-align: center;
+    line-height: 15px;
+    overflow: hidden;
+}
+.card .card-heading {
+    overflow: hidden;
+    margin-bottom: 7px;
+    display: block;
+    cursor: pointer;
+    padding: 10px 10px 0;
+    color: #333;
+}
+.selected-nav-cn a:link,.selected-nav-cn a:visited{
+    color: #333333;
+}
+.AddSite{
+    margin: 20px;
+}
+.fl_l{
+    float: left;
+}
+.adsen img{
+    height: 80px;
+    width: 100%;
+}
+.linkinfo{width: 156px;
+    overflow: hidden;
+    float: left;}
